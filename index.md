@@ -2,6 +2,7 @@
 
 Welcome to my personal website:). I am currently a PhD candidate in Human Geography and Spatial Planning at Utrecht University. I graduated from Zhejiang University and Nanjing University respectively, both in the major of Urban and Rural Planning. During my PhD, I investigate the impact of external linkages (such as return migrants, multinational enterprises, and interregional co-inventor networks) on innovation and regional diversification both in China and Europe. Please find my publications on [Google Scholar](https://scholar.google.com/citations?hl=nl&user=gabVn1UAAAAJ) and contact me through Email (y.qiao@uu.nl).
 
+
 ## Education Background
 
 - PhD in Economic Geography, Utrecht University, Netherlands, Nov. 2019 - Oct. 2022 (expected)
@@ -9,14 +10,17 @@ Welcome to my personal website:). I am currently a PhD candidate in Human Geogra
 - M.S. in Urban-Rural Planning, Nanjing University, China, Sep. 2016 - Jun. 2019
 - B.A. in Urban and Regional Planning, Zhejiang University, China, Sep. 2009 - Jun. 2014
 
+
 ## Research Interests
 
 Evolutionary economic geography; Innovation and regional diversification; Urban and rural planning; Data science; Migrants; Multinational enterprises; Co-inventor networks; Taobao village
+
 
 ## Professional Skills
 
 - Quantitative skills: Econometrics, Machine learning
 - Software: R (proficient), Python, Stata, ESRI ArcGIS
+
 
 ## Working Papers
 
@@ -27,6 +31,7 @@ Evolutionary economic geography; Innovation and regional diversification; Urban 
 5.	Qiao, Y., Morrison, A., Ascani, A., & Breschi, S. (2021). Returnees and Innovation: Evidence from Chinese Public Listed Firms.
 6.	Qiao, Y., Liu, J., & Luo, Z. (2021). Radical Rejection and Gradual Return: The Evolution of Chinese Urban-Rural Planning Thoughts and Practices in the Past Century. (Submitted to Journal of City Planning Review). [In Chinese]
 7.	Qiao, Y., & Luo, Z. (2021). Spatial Structure and Innovation Performance of Chinese Cities: Evidence from 279 Prefecture-level and above Cities. (Submitted to Journal of City Planning Review). [In Chinese]
+
 
 ## Publications
 
@@ -44,6 +49,7 @@ Evolutionary economic geography; Innovation and regional diversification; Urban 
 12.	Qiao, Y. (2018). Western Marxism on Capital and Urbanism: A Thought Sketch of David Harvey. Proceedings of 2018 Annual Symposium of Chinese Urban Planning. China Architecture & Building Press. [In Chinese]
 13.	Qiao, Y., & Chen, F. (2018). Analysis of Chinese Healthy Urbanism and Problem of Real Estate Market—Based on the Impartial Distribution of Land Development Right. Proceedings of 2018 Annual Symposium of Chinese Urban Planning. China Architecture & Building Press. [In Chinese]
 14.	Qiao, Y., Wang, Y., Zheng, W., Zheng, Y., Tang, K., & Jin, L. (2017). Investigation on Nanjing Maker Space and Illumination on the Construction of Mass Innovation Space. Proceedings of 2017 Annual Symposium of Chinese Urban Planning. China Architecture & Building Press. [In Chinese]
+
 
 ## Language
 
