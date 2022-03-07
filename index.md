@@ -11,7 +11,7 @@ Welcome to my personal website:). I am currently a PhD candidate in Human Geogra
 - B.A. in Urban and Regional Planning, Zhejiang University, China, Sep. 2009 - Jun. 2014
 
 
-## Research Interests
+## Research Areas
 
 Evolutionary economic geography; Innovation and regional diversification; Urban and rural planning; Data science; Migrants; Multinational enterprises; Co-inventor networks; Taobao village
 
