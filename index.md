@@ -4,10 +4,10 @@ Yibo Qiao is currently a PhD candidate in Human Geography and Spatial Planning a
 
 ## Education Background
 
-PhD in Economic Geography, Utrecht University, Netherlands     Nov. 2019 - Oct. 2022 (expected)
-Visiting PhD, Bocconi University, Italy                                Nov. 2020 - Jun. 2021
-M.S. in Urban-Rural Planning, Nanjing University, China                 Sep. 2016 - Jun. 2019
-B.A. in Urban and Regional Planning, Zhejiang University, China           Sep. 2009 - Jun. 2014
+- PhD in Economic Geography, Utrecht University, Netherlands, Nov. 2019 - Oct. 2022 (expected)
+- Visiting PhD, Bocconi University, Italy, Nov. 2020 - Jun. 2021
+- M.S. in Urban-Rural Planning, Nanjing University, China, Sep. 2016 - Jun. 2019
+- B.A. in Urban and Regional Planning, Zhejiang University, China, Sep. 2009 - Jun. 2014
 
 
 
