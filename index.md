@@ -1,8 +1,7 @@
 ## Yibo Qiao (乔艺波)
 
-You can use the [editor on GitHub](https://github.com/QiaoZhengzhi/qiaozhengzhi.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### About me
+Yibo Qiao is currently a PhD candidate in Human Geography and Spatial Planning at Utrecht University. He graduated from Zhejiang University and Nanjing University respectively, both in the major of Urban and Rural Planning. He investigates the impact of external linkages (such as return migrants, multinational enterprises, and interregional co-inventor networks) on innovation and regional diversification. Please find my publications on [Google Scholar](https://scholar.google.com/citations?hl=nl&user=gabVn1UAAAAJ).
 
 ### Markdown
 
