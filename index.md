@@ -24,7 +24,7 @@ Evolutionary economic geography; Innovation and regional diversification; Urban 
 
 ## Working Papers
 
-1.	Qiao, Y., & Boschma, R. (2022). Unpacking Relatedness: The Role of Different Types of Relatedness Linkages on Technological Diversification in US Metropolitan Areas.
+1.	Qiao, Y., & Boschma, R. (2022). Unpacking Relatedness: The Role of Various Relatedness Linkages in Technological Diversification in US Metropolitan Statistical Areas.
 2.	Qiao, Y. (2022). Relatedness, Complexity, and Regional Diversification in the European Union: The Role of Co-inventor Networks.
 3.	Qiao, Y., Morrison, A., & Cortinovis, N. (2021). Relatedness or Forward-Backward Linkages? The Spillover Channel of MNEs on Industrial Export Quantity and Quality in China.
 4.	Qiao, Y., Morrison, A., & Ascani, A. (2021). Jump Further, Climb Higher: MNEs, Industrial Relatedness and Regional Diversification in China. (Submitted to Economic Geography)
@@ -54,4 +54,4 @@ Evolutionary economic geography; Innovation and regional diversification; Urban 
 
 ## Language
 
-English(C1), IELTS: 7; German(B1); Dutch (Basic); Chinese (native)
+English(C1), IELTS: 7; German(B1); Dutch (Basic); Chinese (Native)
