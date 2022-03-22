@@ -1,6 +1,6 @@
 # **Yibo Qiao (乔艺波)**
 
-Welcome to my personal website:). I am currently an Economic Geography PhD candidate in the department of Human Geography and Spatial Planning at Utrecht University. I graduated from Zhejiang University and Nanjing University respectively, both in the major of Urban and Rural Planning. During my PhD, I investigate the impact of external linkages (such as return migrants, multinational enterprises, and interregional co-inventor networks) on innovation and regional diversification in the context of China, Europe, and US. Please find my publications on [Google Scholar](https://scholar.google.com/citations?hl=nl&user=gabVn1UAAAAJ) and contact me through [Email](y.qiao@uu.nl).
+Welcome to my personal website:). I am currently an Economic Geography PhD candidate in the department of Human Geography and Spatial Planning at Utrecht University. I graduated from Zhejiang University and Nanjing University respectively, both in the major of Urban and Rural Planning. During my PhD, I investigate the impact of external linkages (such as return migrants, multinational enterprises, and interregional co-inventor networks) on innovation and regional diversification in the context of China, Europe, and US. Please find my publications on [Google Scholar](https://scholar.google.com/citations?hl=nl&user=gabVn1UAAAAJ) and contact me through [Email](mailto:y.qiao@uu.nl).
 
 
 ## Education Background
