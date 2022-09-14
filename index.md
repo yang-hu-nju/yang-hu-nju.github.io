@@ -3,7 +3,7 @@ Welcome to my personal website:). I am currently an Economic Geography [PhD cand
 
 ## Education Background
 
-- PhD in Economic Geography, Utrecht University, Netherlands, Nov. 2019 - Oct. 2022 (expected)
+- PhD in Economic Geography, Utrecht University, Netherlands, Nov. 2019 - Jan. 2023 (expected)
 - Visiting PhD, Bocconi University, Italy, Nov. 2020 - Jun. 2021
 - M.S. in Urban-Rural Planning, Nanjing University, China, Sep. 2016 - Jun. 2019
 - B.S. in Urban Planning, Zhejiang University, China, Sep. 2009 - Jun. 2014
